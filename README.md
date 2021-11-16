@@ -2,8 +2,8 @@
 
 ## About this Repo
 This repo consists of two files
-*index.html
-*external.js
+* index.html
+* external.js
 
 The html simply has a button which when pressed will create a prompt for user input. You need to *open the browser console* to see the score and game take place. 
 
